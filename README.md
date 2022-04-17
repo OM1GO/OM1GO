@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OM1GO
+- 👀 I’m interested in python,C#,PHP
+- 🌱 I’m currently learning C#,python
+- 💞️ I’m looking to collaborate on still no 1
